@@ -36,7 +36,7 @@ The total summary for all the 3 lots reveals mean is steady 1498.78 in all 150n.
 <img width="1440" alt="Screen Shot 2021-06-13 at 10 03 13 PM" src="https://user-images.githubusercontent.com/79673185/121831182-d5da1f00-cc94-11eb-9f38-1232e28689ca.png">
 
 
-<img width="1440" alt="Screen Shot 2021-06-13 at 10 03 25 PM" src="https://user-images.githubusercontent.com/79673185/121831216-f1ddc080-cc94-11eb-819f-1f26bb3ffd3e.png">
+
 
 
 
